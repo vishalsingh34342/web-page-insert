@@ -7,6 +7,11 @@ const Footer = () => {
       <h1>hello</h1>
       <p>hello </p>
       <p>hello</p>
+      <ul>
+        <li>hlo</li>
+        <li>hy</li>
+        <li>ny</li>
+      </ul>
 
     </div>
   </>
